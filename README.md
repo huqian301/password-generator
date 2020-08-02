@@ -1,3 +1,34 @@
+## Student name: 
+Qian Hu
+
+## Instructor: 
+Emmanuel Jucaban
+
+## Github links:
+https://github.com/huqian301/password-generator <br>
+https://huqian301.github.io/password-generator/
+
+## Project description: 
+In this project, we are creating a app to give user a random password.<br>
+Once, user cilck the "Generate Password", there're serverals windows will popout.
+Those windows will ask user the length of password they need, and contain lowercase, uppercase, numbers, and special characters or not.<br>
+After that, inside of the textbox will show the password that match all the requirements.
+
+
+## Output
+<img src="./img/length.png" width="750"><br>
+If the input is not a number or out of range, the window will shows that "Not match the requirement".
+<img src="./img/not_valid_input.png" width="750">
+<img src="./img/not_match.png" width="750"><br>
+If you don't want to create the password, then textbox will show "You dont want a password".
+And, it will not countinuing ask you for the rest of questions.
+<img src="./img/dont_want.png" width="750">
+<img src="./img/lowercase.png" width="750">
+<img src="./img/uppercase.png" width="750">
+<img src="./img/numbers.png" width="750">
+<img src="./img/special_characters.png" width="750">
+<img src="./img/final_password.png" width="750">
+
 # 03 JavaScript: Password Generator
 
 Create an application that generates a random password based on user-selected criteria. This app will run in the browser and feature dynamically updated HTML and CSS powered by your JavaScript code. It will also feature a clean and polished user interface and be responsive, ensuring that it adapts to multiple screen sizes.
